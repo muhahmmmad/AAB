@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**muhahmmmad/muhahmmmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+about me 
 
 - 🔭 currently i'm a student at Smk Telkom Malang
 - 🌱 I’m currently learning Cloud Developer 
